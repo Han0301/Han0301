@@ -1,7 +1,7 @@
 <h1 align="center">👋 你好，我是 Han0301</h1>
 
 <p align="center">
-  <b>机器人竞赛视觉感知工程师</b><br>
+  <b>机器视觉爱好者</b><br>
   多传感器融合 · YOLOv11 自定义模型 · ROS 机器人开发 · C++/Python
 </p>
 
