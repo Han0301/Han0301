@@ -1,12 +1,14 @@
-<h1 align="center">👋 你好，我是 Han0301</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=600&height=80&lines=%F0%9F%91%8B+%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+Han0301;Robocon+%E8%A7%86%E8%A7%89%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%8F%91%E8%80%85;%E6%9C%BA%E5%99%A8%E4%BA%BA+%C2%B7+%E8%A7%86%E8%A7%89+%C2%B7+AI;%E4%BB%8E%E4%BB%BF%E7%9C%9F%E9%AA%8C%E8%AF%81%E2%86%92%E4%B8%8A%E8%BD%A6%E8%81%94%E8%B0%83%E9%83%A8%E7%BD%B2" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <b>机器视觉爱好者</b><br>
+  广东工业大学 · 机器人工程 · 张韩
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/ROS-Noetic-22314E?style=flat-square&logo=ros" />
-  <img src="https://img.shields.io/badge/C++-17-00599C?style=flat-square&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/C%2B%2B-17-00599C?style=flat-square&logo=cplusplus" />
   <img src="https://img.shields.io/badge/Python-3.8-3776AB?style=flat-square&logo=python" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv" />
@@ -17,13 +19,39 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/Han0301?tab=repositories">
+    <img src="https://img.shields.io/github/followers/Han0301?label=Follow&style=social" />
+  </a>
+  <a href="https://github.com/Han0301">
+    <img src="https://img.shields.io/github/stars/Han0301?style=social" />
+  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Han0301.Han0301&left_color=grey&right_color=00BFFF" />
+</p>
+
 ---
 
 ## 🙋 关于我
 
-- 🔭 专注于 **Robocon2026** 的视觉感知系统开发
-- 🌱 当前工作的核心是 **充分挖掘视觉语义,赋能视觉感知,自身定位和指导末端定位**
-- 🎯 目标：从**仿真验证测试 → 上车联调部署**，打造完整的机器人视觉系统
+<table>
+<tr>
+<td width="60%">
+
+- 🔭 专注于 **Robocon2026** 视觉感知系统开发
+- 🌱 当前核心：**充分挖掘视觉语义**，赋能视觉感知、自身定位和末端定位
+- 🎯 目标：从**仿真验证 → 上车联调部署**，打造完整的机器人视觉系统全栈方案
+- 💬 技术栈：C++ / ROS / Python / PyTorch / OpenCV / OpenVINO
+- ⚡ 爱好：机器人竞赛 · 计算机视觉 · 模型训练与优化
+
+</td>
+<td width="40%" align="center">
+
+<!-- 可以放一张你喜欢的图片或 GIF，例如机器人相关的 -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Han0301&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -33,48 +61,48 @@
 
 <table>
 <tr>
-<th>项目</th>
-<th>技术栈</th>
-<th>版本数</th>
-<th>最新 Release</th>
-<th>核心功能</th>
+  <th>项目</th>
+  <th>技术栈</th>
+  <th>版本数</th>
+  <th>最新 Release</th>
+  <th>核心功能</th>
 </tr>
 <tr>
-<td><a href="https://github.com/Han0301/RC26_Vision_Simulation"><b>🧪 Simu</b></a></td>
-<td>C++ / ROS / PCL / OpenCV</td>
-<td>10</td>
-<td><a href="https://github.com/Han0301/RC26_Vision_Simulation/releases/tag/world_ws/v13.5">v13.5</a></td>
-<td>Z-buffer 遮挡处理 · HSV 检测 · PID 控制 · 数据集录制</td>
+  <td><a href="https://github.com/Han0301/RC26_Vision_Simulation"><b>🧪 Simu</b></a></td>
+  <td>C++ / ROS / PCL / OpenCV</td>
+  <td>10</td>
+  <td><a href="https://github.com/Han0301/RC26_Vision_Simulation/releases/tag/world_ws/v13.5">v13.5</a></td>
+  <td>Z-buffer 遮挡处理 · HSV 检测 · PID 控制 · 数据集录制</td>
 </tr>
 <tr>
-<td><a href="https://github.com/Han0301/RC26_Vision_camera"><b>📷 Camera</b></a></td>
-<td>C++ / ROS / RealSense / OpenVINO</td>
-<td>8</td>
-<td><a href="https://github.com/Han0301/RC26_Vision_camera/releases/tag/camera/v2.51">v2.51</a></td>
-<td>PnP 位姿估计 · KFS 方块定位 · Apriltag · 多线程管线</td>
+  <td><a href="https://github.com/Han0301/RC26_Vision_camera"><b>📷 Camera</b></a></td>
+  <td>C++ / ROS / RealSense / OpenVINO</td>
+  <td>8</td>
+  <td><a href="https://github.com/Han0301/RC26_Vision_camera/releases/tag/camera/v2.51">v2.51</a></td>
+  <td>PnP 位姿估计 · KFS 方块定位 · Apriltag · 多线程管线</td>
 </tr>
 <tr>
-<td><a href="https://github.com/Han0301/RC26_Vision_Yolo"><b>🧠 YOLO</b></a></td>
-<td>Python / PyTorch / Ultralytics</td>
-<td>6</td>
-<td><a href="https://github.com/Han0301/RC26_Vision_Yolo/releases/tag/yolo/v2.1">v2.1</a></td>
-<td>12-ROI 分类 · 注意力机制 · Point-size 加权 · 模型导出</td>
+  <td><a href="https://github.com/Han0301/RC26_Vision_Yolo"><b>🧠 YOLO</b></a></td>
+  <td>Python / PyTorch / Ultralytics</td>
+  <td>6</td>
+  <td><a href="https://github.com/Han0301/RC26_Vision_Yolo/releases/tag/yolo/v2.1">v2.1</a></td>
+  <td>12-ROI 分类 · 注意力机制 · Point-size 加权 · 模型导出</td>
 </tr>
 <tr>
-<td><a href="https://github.com/Han0301/RC26_Vision_src"><b>🔗 Merge</b></a></td>
-<td>C++ / ROS / LiDAR / YOLO</td>
-<td>12</td>
-<td><a href="https://github.com/Han0301/RC26_Vision_src/releases/tag/rc/v2">v2</a></td>
-<td>多传感器融合 · 上层决策 · 竞赛系统集成</td>
+  <td><a href="https://github.com/Han0301/RC26_Vision_src"><b>🔗 Merge</b></a></td>
+  <td>C++ / ROS / LiDAR / YOLO</td>
+  <td>12</td>
+  <td><a href="https://github.com/Han0301/RC26_Vision_src/releases/tag/rc/v2">v2</a></td>
+  <td>多传感器融合 · 上层决策 · 竞赛系统集成</td>
 </tr>
 </table>
 
 ---
 
-
 ## 🛠️ 项目介绍
 
-### 感知算法
+### 🔲 感知算法
+
 | 技术 | 项目 | 说明 |
 |------|------|------|
 | 🔲 **Z-buffer 遮挡处理** | Simulation | 利用深度缓冲判断目标遮挡，过滤假阳性，提升遮挡场景检测可靠性 |
@@ -82,7 +110,8 @@
 | 🎯 **KFS 方块定位** | Camera | 基于点云处理的 35cm 方块 6D 位姿识别 |
 | 🔄 **点云配准 (GICP)** | Merge | nano_gicp 轻量级配准，5 倍速度提升 |
 
-### 模型训练
+### 🧬 模型训练
+
 | 技术 | 项目 | 说明 |
 |------|------|------|
 | 🧬 **YOLOv11 自定义分类头** | YOLO | 在预训练 backbone 上设计 ROI 分类头，直接对 12 个区域分类 |
@@ -90,10 +119,11 @@
 | ⚡ **Point-size 加权** | YOLO | 根据点云密度对损失加权，让模型关注信息丰富区域 |
 | 👁️ **LocalGrid Attention** | YOLO | 局部网格注意力，让 ROI 之间交互上下文信息 |
 
-### 系统集成
+### ⚙️ 系统集成
+
 | 技术 | 项目 | 说明 |
 |------|------|------|
-| 🔗 **多传感器融合** | Merge | 视觉全场识别,避障 + 激光雷达定位 |
+| 🔗 **多传感器融合** | Merge | 视觉全场识别 + 激光雷达定位 + 避障 |
 | ⚙️ **参数配置系统** | Merge | YAML 外部化 + 运行时动态调整，无需重新编译 |
 | 🔍 **设备自检** | Merge | 启动时自动检测全部传感器状态 |
 | 🖥️ **上位机监控** | Merge | 工控机-上位机双向通信，远程控制与状态监控 |
@@ -111,23 +141,40 @@
 | `yolo/v2.0` | Custom_atten | 注意力机制版，模块化架构 |
 | `yolo/v2.1` | Custom_atten2 | 12ROI + 单 ROI 联合训练版 |
 | `merge/v39.8` | merge_ws39.8 | 上位机集成稳定版 |
-| `rc/v2` | rc_ws2 | rc26最终版 |
+| `rc/v2` | rc_ws2 | rc26 最终版 |
 
 ---
 
 ## 📊 GitHub 统计
 
 <p align="center">
-  <a href="https://github.com/Han0301/RC26_Vision_Simulation"><img src="https://img.shields.io/github/stars/Han0301/RC26_Vision_Simulation?style=social&label=Simu" /></a>
-  <a href="https://github.com/Han0301/RC26_Vision_camera"><img src="https://img.shields.io/github/stars/Han0301/RC26_Vision_camera?style=social&label=Camera" /></a>
-  <a href="https://github.com/Han0301/RC26_Vision_Yolo"><img src="https://img.shields.io/github/stars/Han0301/RC26_Vision_Yolo?style=social&label=YOLO" /></a>
-  <a href="https://github.com/Han0301/RC26_Vision_src"><img src="https://img.shields.io/github/stars/Han0301/RC26_Vision_src?style=social&label=Merge" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Han0301&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&line_height=24" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Han0301&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Han0301&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Han0301/RC26_Vision_Simulation">
+    <img src="https://img.shields.io/github/stars/Han0301/RC26_Vision_Simulation?style=social&label=Simu" />
+  </a>
+  <a href="https://github.com/Han0301/RC26_Vision_camera">
+    <img src="https://img.shields.io/github/stars/Han0301/RC26_Vision_camera?style=social&label=Camera" />
+  </a>
+  <a href="https://github.com/Han0301/RC26_Vision_Yolo">
+    <img src="https://img.shields.io/github/stars/Han0301/RC26_Vision_Yolo?style=social&label=YOLO" />
+  </a>
+  <a href="https://github.com/Han0301/RC26_Vision_src">
+    <img src="https://img.shields.io/github/stars/Han0301/RC26_Vision_src?style=social&label=Merge" />
+  </a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/Han0301/RC26_Vision_src?style=flat-square&label=最近更新" />
   <img src="https://img.shields.io/github/repo-size/Han0301/RC26_Vision_src?style=flat-square&label=代码规模" />
-  <img src="https://img.shields.io/badge/总计提交-36+%20versions-2ea44f?style=flat-square" />
+  <img src="https://img.shields.io/badge/总计提交-36%2B%20versions-2ea44f?style=flat-square" />
 </p>
 
 ---
@@ -142,4 +189,8 @@
   <a href="https://github.com/Han0301/RC26_Vision_Yolo">YOLO</a> ·
   <a href="https://github.com/Han0301/RC26_Vision_src">Merge</a> ·
   <a href="https://github.com/Han0301?tab=repositories">All Repos</a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=120&section=footer&text=Keep%20Building%2C%20Keep%20Learning&fontSize=20&fontColor=white" />
 </p>
