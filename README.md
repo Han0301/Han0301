@@ -38,9 +38,6 @@
 
 ---
 
-<p align="center">
-  <sub>✨ 从仿真验证 → 模型训练 → 上车部署，完整的机器人视觉系统全栈开发 ✨</sub>
-</p>
 
 <p align="center">
   <a href="https://github.com/Han0301/RC26_Vision_Simulation">Simulation</a> ·
