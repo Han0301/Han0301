@@ -2,13 +2,12 @@
 
 # Hi, I'm Han Zhang 👋
 
-### Robotics Engineering Student · Machine Vision · Multi-Sensor Fusion
-
+### GDUT Robotics Engineering Student · Robot visual perception · Machine Vision · Deep learning
 </div>
 
 ## About Me
 
-广工 | 机器人工程 | 本科大三，主要领域为： 机器人视觉感知、目标检测/分类/深度感知定位。
+广工 | 机器人工程 | 本科大三，主要领域为： 机器人视觉感知、机器视觉，目标检测/分类/深度感知定位。
 
 [![GitHub](https://img.shields.io/badge/GitHub-Han0301-181717?style=flat-square&logo=github)](https://github.com/Han0301)
 [![University](https://img.shields.io/badge/GDUT-Robotics_Engineering-005BAC?style=flat-square)](https://www.gdut.edu.cn/)
@@ -19,9 +18,9 @@
 | Project | Description | Tech |
 | --- | --- | --- |
 | [RC26 Vision YOLO](https://github.com/Han0301/RC26_Vision_Yolo) | 面向固定 12 个 ROI 的二分类模型：12 ROI 合并后单次批量通过共享 Backbone，再使用多头自注意力融合跨位置特征；支持训练、推理、注意力可视化及 ONNX/OpenVINO 导出。 | Python · PyTorch · YOLO11 · ONNX · OpenVINO |
-| [RC26 Vision Camera](https://github.com/Han0301/RC26_Vision_camera) | 基于 RealSense D435 的相机感知工作区，覆盖深度点云平面拟合、PnP 位姿解算、KFS 方块定位、AprilTag 识别与数据集录制。 | C++ · ROS Noetic · OpenCV · PCL · RealSense |
-| [RC26 Vision Simulation](https://github.com/Han0301/GDUT_RC26_Vision_Simulation) | RC26 视觉仿真环境，使用 Z-buffer 完成 3D→2D 映射与遮挡处理，并结合 HSV 检测、相机标定、PID 控制及地图数据生成。 | C++ · ROS · Gazebo · OpenCV · Python |
-| [RC26 Vision src](https://github.com/Han0301/GDUT_RC26_Vision_src) | 真实机器人上的融合代码工作区，整合双相机、双激光雷达、里程计、IMU、YOLO、PnP 与 Z-buffer 感知模块。 | C++ · ROS · LiDAR · Multi-threading · Sensor Fusion |
+| [RC26 Vision Camera](https://github.com/Han0301/RC26_Vision_camera) | 基于 RealSense D435 的感知测试，基于深度点云平面拟合、PnP 位姿解算的KFS 方块定位、AprilTag 识别与配套的相关数据集录制。 | C++ · ROS Noetic · OpenCV · PCL · RealSense |
+| [RC26 Vision Simulation](https://github.com/Han0301/GDUT_RC26_Vision_Simulation) | RC26 视觉仿真环境，完整的比赛环境测试，测试世界到像素的多级坐标链转换，完成 3D→2D 映射与zbuffer遮挡处理，并结合 HSV 检测、相机标定、PID 控制及地图数据生成。 | C++ · ROS · Gazebo · OpenCV · Python |
+| [RC26 Vision src](https://github.com/Han0301/GDUT_RC26_Vision_src) | 真实机器人上的融合代码工作区，整合多相机、激光雷达、IMU、YOLO、PnP。 | C++ · ROS · LiDAR · Multi-threading · Sensor Fusion |
 
 
 ## Tech Stack
