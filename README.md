@@ -26,22 +26,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Han0301.Han0301&left_color=grey&right_color=00BFFF" />
 </p>
 
----
-
-## 🙋 关于我
-
-<table>
-<tr>
-<td width="40%" align="center">
-
-<!-- 可以放一张你喜欢的图片或 GIF，例如机器人相关的 -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Han0301&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-</td>
-</tr>
-</table>
-
----
 
 ## 📂 项目总览
 
