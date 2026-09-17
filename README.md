@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=600&height=80&lines=%F0%9F%91%8B+%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+Han0301;Robocon+%E8%A7%86%E8%A7%89%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%8F%91%E8%80%85;%E6%9C%BA%E5%99%A8%E4%BA%BA+%C2%B7+%E8%A7%86%E8%A7%89+%C2%B7+AI;%E4%BB%8E%E4%BB%BF%E7%9C%9F%E9%AA%8C%E8%AF%81%E2%86%92%E4%B8%8A%E8%BD%A6%E8%81%94%E8%B0%83%E9%83%A8%E7%BD%B2" alt="Typing SVG" />
-</p>
 
 <p align="center">
   广东工业大学 · 机器人工程 · 张韩
@@ -35,15 +32,6 @@
 
 <table>
 <tr>
-<td width="60%">
-
-- 🔭 专注于 **Robocon2026** 视觉感知系统开发
-- 🌱 当前核心：**充分挖掘视觉语义**，赋能视觉感知、自身定位和末端定位
-- 🎯 目标：从**仿真验证 → 上车联调部署**，打造完整的机器人视觉系统全栈方案
-- 💬 技术栈：C++ / ROS / Python / PyTorch / OpenCV / OpenVINO
-- ⚡ 爱好：机器人竞赛 · 计算机视觉 · 模型训练与优化
-
-</td>
 <td width="40%" align="center">
 
 <!-- 可以放一张你喜欢的图片或 GIF，例如机器人相关的 -->
