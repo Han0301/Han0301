@@ -2,17 +2,17 @@
 
 # Hi, I'm Han Zhang 👋
 
-## About Me
-
 ### Robotics Engineering Student · Machine Vision · Multi-Sensor Fusion
+
+</div>
+
+## About Me
 
 广工 | 机器人工程 | 本科大三，主要领域为： 机器人视觉感知、目标检测/分类/深度感知定位。
 
 [![GitHub](https://img.shields.io/badge/GitHub-Han0301-181717?style=flat-square&logo=github)](https://github.com/Han0301)
 [![University](https://img.shields.io/badge/GDUT-Robotics_Engineering-005BAC?style=flat-square)](https://www.gdut.edu.cn/)
 [![Email](https://img.shields.io/badge/Email-hanzhang060301%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hanzhang060301@gmail.com)
-
-</div>
 
 ## Featured Projects
 
@@ -38,5 +38,17 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
+## GitHub Activity
 
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Han0301&theme=tokyonight" alt="Han0301 GitHub profile details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Han0301&theme=tokyonight" height="165" alt="Han0301 GitHub statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Han0301&theme=tokyonight" height="165" alt="Han0301 repositories by language" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Han0301&theme=tokyonight&hide_border=true" alt="Han0301 contribution streak" />
+</p>
